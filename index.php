@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<body onload="myFunction()">
+<body onclick="myFunction()">
 
 	<img src="https://i0.wp.com/babab.net/img/cara-cara-membuat-laporan-pada-penipu-online-yang-tidak-bertanggung-jawab.jpg"
 		alt="alternatetext">
