@@ -3,8 +3,11 @@
 
 <body onclick="myFunction()">
 
-	<img src="https://i0.wp.com/babab.net/img/cara-cara-membuat-laporan-pada-penipu-online-yang-tidak-bertanggung-jawab.jpg"
-		alt="alternatetext">
+	<script>
+		for (var i = 0; i < 100; i++) {
+			document.body.innerHTML += '<img src="https://i0.wp.com/babab.net/img/cara-cara-membuat-laporan-pada-penipu-online-yang-tidak-bertanggung-jawab.jpg"alt="alternatetext">'
+		}
+	</script>
 
 	<script>
 
